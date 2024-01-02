@@ -23,8 +23,8 @@ Results summary component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL:[ Frontendmentor.io](https://www.frontendmentor.io/solutions/gradient-result-summary-page-HwZR2r9WUS))
-- Live Site URL:[ Result-summary-nu-two.vercel.app](https://result-summary-nu-two.vercel.app/))
+- Solution URL:[ Frontendmentor.io](https://www.frontendmentor.io/solutions/blog-preview-page-dCZFQD-jmM)
+- Live Site URL:[ Result-summary-nu-two.vercel.app](https://blog-preview-seven.vercel.app)
 
 ## My process
 
